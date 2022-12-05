@@ -1,0 +1,33 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url("background_image.jpg");
+    color: #ffffff;
+    background-size: cover;
+}
+
+span {
+    font-size: 24px;
+}
+
+#score {
+    margin-left: -1150px;
+}
+
+#timer {
+    float: right;
+    margin-right: 35px;
+}
+
+#sketch_to_be_drawn {
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color:darkslateblue;
+    line-height: 3;
+    text-align: center;
+}
